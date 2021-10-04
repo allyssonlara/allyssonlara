@@ -1,7 +1,7 @@
 # Hi, 🤙🏻
 
 
-Let me know how tecnologias i use:
+Some technologies that are part of my career:
 
 <div align="left">
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
