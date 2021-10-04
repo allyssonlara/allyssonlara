@@ -18,7 +18,7 @@ style="max-width:100%;">
 
 <div>
   <a href = "https://github.com/allyssonlara">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=allyssonlara&show_icons=true&theme=radical"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=allyssonlara&show_icons=true&theme=dark"/>
 </div>
     
 <br/>
