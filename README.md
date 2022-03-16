@@ -11,6 +11,8 @@ style="max-width:100%;">
 style="max-width:100%;">
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"
 style="max-width:100%;">
+<img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg"
+style="max-width:100%;">
 
 </div>
 
