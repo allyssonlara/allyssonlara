@@ -1,6 +1,3 @@
-# Hi, 🤙🏻
-
-
 Some technologies that are part of my career:
 
 <div align="left">
