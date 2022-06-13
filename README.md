@@ -16,7 +16,6 @@ style="max-width:100%;">
 style="max-width:100%;">
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original-wordmark.svg"
 style="max-width:100%;">
-style="max-width:100%;">
 <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"
 style="max-width:100%;">
     
